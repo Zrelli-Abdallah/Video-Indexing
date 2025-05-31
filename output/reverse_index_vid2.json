@@ -1,0 +1,567 @@
+{
+    "Video Path": "videos\\vid2.mp4",
+    "Transcription": {
+        "text": " Today we're over at each mall. I'm getting around to it What about you? What about you? What about you? You do it, Joe? What? I don't know. Uh-oh. I'm going to go. I'm going to go. I'm going to go. You're going to get that head. I'm going to go. I'm going to go. No. I'm going to go. No. No. No. No. No. No. No. No. No. No. No. No.",
+        "segments": [
+            {
+                "id": 0,
+                "seek": 0,
+                "start": 0.0,
+                "end": 3.5,
+                "text": " Today we're over at each mall.",
+                "tokens": [
+                    50363,
+                    6288,
+                    356,
+                    821,
+                    625,
+                    379,
+                    1123,
+                    17374,
+                    13,
+                    50538
+                ],
+                "temperature": 1.0,
+                "avg_logprob": -4.27677001953125,
+                "compression_ratio": 0.873015873015873,
+                "no_speech_prob": 0.45896968245506287
+            },
+            {
+                "id": 1,
+                "seek": 0,
+                "start": 20.76,
+                "end": 24.240000000000002,
+                "text": " I'm getting around to it",
+                "tokens": [
+                    51401,
+                    314,
+                    1101,
+                    1972,
+                    1088,
+                    284,
+                    340,
+                    51575
+                ],
+                "temperature": 1.0,
+                "avg_logprob": -4.27677001953125,
+                "compression_ratio": 0.873015873015873,
+                "no_speech_prob": 0.45896968245506287
+            },
+            {
+                "id": 2,
+                "seek": 2424,
+                "start": 24.24,
+                "end": 26.24,
+                "text": " What about you?",
+                "tokens": [
+                    50363,
+                    1867,
+                    546,
+                    345,
+                    30,
+                    50463
+                ],
+                "temperature": 0.2,
+                "avg_logprob": -0.7140582436009457,
+                "compression_ratio": 2.1020408163265305,
+                "no_speech_prob": 0.5562843084335327
+            },
+            {
+                "id": 3,
+                "seek": 2424,
+                "start": 26.24,
+                "end": 28.24,
+                "text": " What about you?",
+                "tokens": [
+                    50463,
+                    1867,
+                    546,
+                    345,
+                    30,
+                    50563
+                ],
+                "temperature": 0.2,
+                "avg_logprob": -0.7140582436009457,
+                "compression_ratio": 2.1020408163265305,
+                "no_speech_prob": 0.5562843084335327
+            },
+            {
+                "id": 4,
+                "seek": 2424,
+                "start": 28.24,
+                "end": 30.24,
+                "text": " What about you?",
+                "tokens": [
+                    50563,
+                    1867,
+                    546,
+                    345,
+                    30,
+                    50663
+                ],
+                "temperature": 0.2,
+                "avg_logprob": -0.7140582436009457,
+                "compression_ratio": 2.1020408163265305,
+                "no_speech_prob": 0.5562843084335327
+            },
+            {
+                "id": 5,
+                "seek": 2424,
+                "start": 30.24,
+                "end": 32.239999999999995,
+                "text": " You do it, Joe?",
+                "tokens": [
+                    50663,
+                    921,
+                    466,
+                    340,
+                    11,
+                    5689,
+                    30,
+                    50763
+                ],
+                "temperature": 0.2,
+                "avg_logprob": -0.7140582436009457,
+                "compression_ratio": 2.1020408163265305,
+                "no_speech_prob": 0.5562843084335327
+            },
+            {
+                "id": 6,
+                "seek": 2424,
+                "start": 32.239999999999995,
+                "end": 34.239999999999995,
+                "text": " What?",
+                "tokens": [
+                    50763,
+                    1867,
+                    30,
+                    50863
+                ],
+                "temperature": 0.2,
+                "avg_logprob": -0.7140582436009457,
+                "compression_ratio": 2.1020408163265305,
+                "no_speech_prob": 0.5562843084335327
+            },
+            {
+                "id": 7,
+                "seek": 2424,
+                "start": 34.239999999999995,
+                "end": 36.239999999999995,
+                "text": " I don't know.",
+                "tokens": [
+                    50863,
+                    314,
+                    836,
+                    470,
+                    760,
+                    13,
+                    50963
+                ],
+                "temperature": 0.2,
+                "avg_logprob": -0.7140582436009457,
+                "compression_ratio": 2.1020408163265305,
+                "no_speech_prob": 0.5562843084335327
+            },
+            {
+                "id": 8,
+                "seek": 2424,
+                "start": 36.239999999999995,
+                "end": 38.239999999999995,
+                "text": " Uh-oh.",
+                "tokens": [
+                    50963,
+                    28574,
+                    12,
+                    1219,
+                    13,
+                    51063
+                ],
+                "temperature": 0.2,
+                "avg_logprob": -0.7140582436009457,
+                "compression_ratio": 2.1020408163265305,
+                "no_speech_prob": 0.5562843084335327
+            },
+            {
+                "id": 9,
+                "seek": 2424,
+                "start": 38.239999999999995,
+                "end": 40.239999999999995,
+                "text": " I'm going to go.",
+                "tokens": [
+                    51063,
+                    314,
+                    1101,
+                    1016,
+                    284,
+                    467,
+                    13,
+                    51163
+                ],
+                "temperature": 0.2,
+                "avg_logprob": -0.7140582436009457,
+                "compression_ratio": 2.1020408163265305,
+                "no_speech_prob": 0.5562843084335327
+            },
+            {
+                "id": 10,
+                "seek": 2424,
+                "start": 40.239999999999995,
+                "end": 42.239999999999995,
+                "text": " I'm going to go.",
+                "tokens": [
+                    51163,
+                    314,
+                    1101,
+                    1016,
+                    284,
+                    467,
+                    13,
+                    51263
+                ],
+                "temperature": 0.2,
+                "avg_logprob": -0.7140582436009457,
+                "compression_ratio": 2.1020408163265305,
+                "no_speech_prob": 0.5562843084335327
+            },
+            {
+                "id": 11,
+                "seek": 2424,
+                "start": 42.239999999999995,
+                "end": 44.239999999999995,
+                "text": " I'm going to go.",
+                "tokens": [
+                    51263,
+                    314,
+                    1101,
+                    1016,
+                    284,
+                    467,
+                    13,
+                    51363
+                ],
+                "temperature": 0.2,
+                "avg_logprob": -0.7140582436009457,
+                "compression_ratio": 2.1020408163265305,
+                "no_speech_prob": 0.5562843084335327
+            },
+            {
+                "id": 12,
+                "seek": 2424,
+                "start": 44.239999999999995,
+                "end": 46.239999999999995,
+                "text": " You're going to get that head.",
+                "tokens": [
+                    51363,
+                    921,
+                    821,
+                    1016,
+                    284,
+                    651,
+                    326,
+                    1182,
+                    13,
+                    51463
+                ],
+                "temperature": 0.2,
+                "avg_logprob": -0.7140582436009457,
+                "compression_ratio": 2.1020408163265305,
+                "no_speech_prob": 0.5562843084335327
+            },
+            {
+                "id": 13,
+                "seek": 2424,
+                "start": 46.239999999999995,
+                "end": 48.239999999999995,
+                "text": " I'm going to go.",
+                "tokens": [
+                    51463,
+                    314,
+                    1101,
+                    1016,
+                    284,
+                    467,
+                    13,
+                    51563
+                ],
+                "temperature": 0.2,
+                "avg_logprob": -0.7140582436009457,
+                "compression_ratio": 2.1020408163265305,
+                "no_speech_prob": 0.5562843084335327
+            },
+            {
+                "id": 14,
+                "seek": 2424,
+                "start": 48.239999999999995,
+                "end": 50.239999999999995,
+                "text": " I'm going to go.",
+                "tokens": [
+                    51563,
+                    314,
+                    1101,
+                    1016,
+                    284,
+                    467,
+                    13,
+                    51663
+                ],
+                "temperature": 0.2,
+                "avg_logprob": -0.7140582436009457,
+                "compression_ratio": 2.1020408163265305,
+                "no_speech_prob": 0.5562843084335327
+            },
+            {
+                "id": 15,
+                "seek": 5024,
+                "start": 50.24,
+                "end": 52.24,
+                "text": " No.",
+                "tokens": [
+                    50363,
+                    1400,
+                    13,
+                    50463
+                ],
+                "temperature": 0.6,
+                "avg_logprob": -0.28344468147523944,
+                "compression_ratio": 2.2666666666666666,
+                "no_speech_prob": 0.3907727003097534
+            },
+            {
+                "id": 16,
+                "seek": 5024,
+                "start": 52.24,
+                "end": 54.24,
+                "text": " I'm going to go.",
+                "tokens": [
+                    50463,
+                    314,
+                    1101,
+                    1016,
+                    284,
+                    467,
+                    13,
+                    50563
+                ],
+                "temperature": 0.6,
+                "avg_logprob": -0.28344468147523944,
+                "compression_ratio": 2.2666666666666666,
+                "no_speech_prob": 0.3907727003097534
+            },
+            {
+                "id": 17,
+                "seek": 5024,
+                "start": 54.24,
+                "end": 56.24,
+                "text": " No.",
+                "tokens": [
+                    50563,
+                    1400,
+                    13,
+                    50663
+                ],
+                "temperature": 0.6,
+                "avg_logprob": -0.28344468147523944,
+                "compression_ratio": 2.2666666666666666,
+                "no_speech_prob": 0.3907727003097534
+            },
+            {
+                "id": 18,
+                "seek": 5024,
+                "start": 56.24,
+                "end": 58.24,
+                "text": " No.",
+                "tokens": [
+                    50663,
+                    1400,
+                    13,
+                    50763
+                ],
+                "temperature": 0.6,
+                "avg_logprob": -0.28344468147523944,
+                "compression_ratio": 2.2666666666666666,
+                "no_speech_prob": 0.3907727003097534
+            },
+            {
+                "id": 19,
+                "seek": 5024,
+                "start": 58.24,
+                "end": 60.24,
+                "text": " No.",
+                "tokens": [
+                    50763,
+                    1400,
+                    13,
+                    50863
+                ],
+                "temperature": 0.6,
+                "avg_logprob": -0.28344468147523944,
+                "compression_ratio": 2.2666666666666666,
+                "no_speech_prob": 0.3907727003097534
+            },
+            {
+                "id": 20,
+                "seek": 5024,
+                "start": 60.24,
+                "end": 62.24,
+                "text": " No.",
+                "tokens": [
+                    50863,
+                    1400,
+                    13,
+                    50963
+                ],
+                "temperature": 0.6,
+                "avg_logprob": -0.28344468147523944,
+                "compression_ratio": 2.2666666666666666,
+                "no_speech_prob": 0.3907727003097534
+            },
+            {
+                "id": 21,
+                "seek": 5024,
+                "start": 62.24,
+                "end": 64.24000000000001,
+                "text": " No.",
+                "tokens": [
+                    50963,
+                    1400,
+                    13,
+                    51063
+                ],
+                "temperature": 0.6,
+                "avg_logprob": -0.28344468147523944,
+                "compression_ratio": 2.2666666666666666,
+                "no_speech_prob": 0.3907727003097534
+            },
+            {
+                "id": 22,
+                "seek": 5024,
+                "start": 64.24000000000001,
+                "end": 66.24000000000001,
+                "text": " No.",
+                "tokens": [
+                    51063,
+                    1400,
+                    13,
+                    51163
+                ],
+                "temperature": 0.6,
+                "avg_logprob": -0.28344468147523944,
+                "compression_ratio": 2.2666666666666666,
+                "no_speech_prob": 0.3907727003097534
+            },
+            {
+                "id": 23,
+                "seek": 5024,
+                "start": 66.24000000000001,
+                "end": 68.24000000000001,
+                "text": " No.",
+                "tokens": [
+                    51163,
+                    1400,
+                    13,
+                    51263
+                ],
+                "temperature": 0.6,
+                "avg_logprob": -0.28344468147523944,
+                "compression_ratio": 2.2666666666666666,
+                "no_speech_prob": 0.3907727003097534
+            },
+            {
+                "id": 24,
+                "seek": 5024,
+                "start": 68.24000000000001,
+                "end": 70.24000000000001,
+                "text": " No.",
+                "tokens": [
+                    51263,
+                    1400,
+                    13,
+                    51363
+                ],
+                "temperature": 0.6,
+                "avg_logprob": -0.28344468147523944,
+                "compression_ratio": 2.2666666666666666,
+                "no_speech_prob": 0.3907727003097534
+            },
+            {
+                "id": 25,
+                "seek": 5024,
+                "start": 70.24000000000001,
+                "end": 72.24000000000001,
+                "text": " No.",
+                "tokens": [
+                    51363,
+                    1400,
+                    13,
+                    51463
+                ],
+                "temperature": 0.6,
+                "avg_logprob": -0.28344468147523944,
+                "compression_ratio": 2.2666666666666666,
+                "no_speech_prob": 0.3907727003097534
+            },
+            {
+                "id": 26,
+                "seek": 5024,
+                "start": 72.24000000000001,
+                "end": 74.24000000000001,
+                "text": " No.",
+                "tokens": [
+                    51463,
+                    1400,
+                    13,
+                    51563
+                ],
+                "temperature": 0.6,
+                "avg_logprob": -0.28344468147523944,
+                "compression_ratio": 2.2666666666666666,
+                "no_speech_prob": 0.3907727003097534
+            },
+            {
+                "id": 27,
+                "seek": 5024,
+                "start": 74.24000000000001,
+                "end": 76.24000000000001,
+                "text": " No.",
+                "tokens": [
+                    51563,
+                    1400,
+                    13,
+                    51663
+                ],
+                "temperature": 0.6,
+                "avg_logprob": -0.28344468147523944,
+                "compression_ratio": 2.2666666666666666,
+                "no_speech_prob": 0.3907727003097534
+            },
+            {
+                "id": 28,
+                "seek": 5024,
+                "start": 76.24000000000001,
+                "end": 78.24000000000001,
+                "text": " No.",
+                "tokens": [
+                    51663,
+                    1400,
+                    13,
+                    51763
+                ],
+                "temperature": 0.6,
+                "avg_logprob": -0.28344468147523944,
+                "compression_ratio": 2.2666666666666666,
+                "no_speech_prob": 0.3907727003097534
+            }
+        ],
+        "language": "en"
+    },
+    "Labels": [],
+    "Metadata": {
+        "Title": "vid2",
+        "Duration": 68.55,
+        "Format": "mp4",
+        "Resolution": [
+            640,
+            360
+        ]
+    }
+}
