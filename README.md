@@ -1,0 +1,2 @@
+# Video Indexing
+ 📽️ Video Indexing with Python and AI This project provides an AI-powered video indexing tool using Python. It combines audio transcription, object detection, and scene understanding to extract and index meaningful information from videos.  Key Features:  🎙️ Audio Transcription using OpenAI's Whisper  🧠 Object Detection with YOLOv8 (Ultralytics)  🎞️ Scene Analysis via pre-trained CNN models  🔍 Searchable Interface built with Tkinter  📂 Metadata Export in JSON/CSV formats  Tech Stack: Python, Whisper, YOLOv8, MoviePy, OpenCV, PyTorch, Tkinter
